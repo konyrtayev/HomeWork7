@@ -1,0 +1,15 @@
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/bin/Debug/net7.0/HomeWork7
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/bin/Debug/net7.0/HomeWork7.deps.json
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/bin/Debug/net7.0/HomeWork7.runtimeconfig.json
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/bin/Debug/net7.0/HomeWork7.dll
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/bin/Debug/net7.0/HomeWork7.pdb
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.csproj.AssemblyReference.cache
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.AssemblyInfoInputs.cache
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.AssemblyInfo.cs
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.csproj.CoreCompileInputs.cache
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.dll
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/refint/HomeWork7.dll
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.pdb
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/HomeWork7.genruntimeconfig.cache
+/Users/mukhtarkonyrtayev/Desktop/HW7/HomeWork7/obj/Debug/net7.0/ref/HomeWork7.dll
